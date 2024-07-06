@@ -1,0 +1,40 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<path d=" M 197.0 163.62089752176826 L 203.0 169.62089752176826 M 197.0 169.62089752176826 L 203.0 163.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="207.0" y="182.62089752176826">R</text>
+<path d=" M 333.0 163.62089752176826 L 339.0 169.62089752176826 M 333.0 169.62089752176826 L 339.0 163.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="343.0" y="182.62089752176826">Q</text>
+<polyline fill="none" points="200.0,166.62089752176826 336.0,166.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<circle cx="200.0" cy="166.62089752176826" fill="none" r="136.0" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<circle cx="336.0" cy="166.62089752176826" fill="none" r="136.0" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="265.0" y="281.4003524364519"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="300.4003524364519">P</text>
+<polyline fill="none" points="268.0,284.4003524364519 336.0,166.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="268.0,284.4003524364519 200.0,166.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<path d=" M 231.0 146.62089752176826 L 237.0 152.62089752176826 M 231.0 152.62089752176826 L 237.0 146.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="265.0" y="129.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="148.62089752176826">X</text>
+<polyline fill="none" points="0,266.62089752176826 468.0,32.620897521768285" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="2.758204956463487,0 468.0,232.62089752176826" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 61.0 218.02089752176826 L 67.0 224.02089752176826 M 61.0 224.02089752176826 L 67.0 218.02089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="176.5803584627206" y="253.92981966986127"/> 
+<text fill="#000000" font-size="11.2" x="186.5803584627206" y="272.9298196698613">Y</text>
+<polyline fill="none" points="146.9501516506535,401.2417950435365 237.67445030995881,0" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="200.0,166.62089752176826 179.5803584627206,256.9298196698613" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="179.5803584627206,256.9298196698613 268.0,284.4003524364519" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="200.0,166.62089752176826 268.0,132.62089752176826" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="268.0,132.62089752176826 336.0,166.62089752176826" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="200.0,166.62089752176826 229.9936377479171,33.969543609918844" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="200.0,166.62089752176826 296.01397215538054,118.613911444078" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="229.9936377479171,33.969543609918844 296.01397215538054,118.613911444078" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,201.1371469602989 468.0,346.5370729410437" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="370.93410297618436" y="264.0417986963244"/> 
+<text fill="#000000" font-size="11.2" x="380.93410297618436" y="283.0417986963244">Z</text>
+<polyline fill="none" points="424.6282953335077,401.2417950435365 273.05877749903635,0" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,328.31531722734684 468.0,251.62799065220193" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="1076.7237647525508" y="549.4827798980436">C</text>
+<text fill="#000000" font-size="11.2" x="257.9237288685922" y="-42.59691825077152">A</text>
+<text fill="#000000" font-size="11.2" x="-176.53885795477743" y="374.39032649915697">B</text>
+<polyline fill="none" points="250.9237288685922,-58.59691825077152 -183.53885795477743,358.3903264991569" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="250.9237288685922,-58.59691825077152 1069.7237647525508,533.4827798980436" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="-183.53885795477743,358.39032649915697 1069.7237647525506,533.4827798980436" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> </svg>

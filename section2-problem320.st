@@ -1,4 +1,4 @@
-| sketch p q r d A B C BC AB AC F G P Q R PQ RQ PR x1 X1 X y1 Y1 Y Z RX1 RX QX RY PY1 PY QZ PZ L M N XC YC ZC Q1 M1 RQ1 Z1 w1 v w|
+| sketch p q r d A B C BC AB AC F G P Q R PQ RQ PR x1 X1 X y1 Y1 Y Z RX1 RX QX RY PY1 PY QZ PZ L M N XC YC ZC Q1 M1 RQ1 Z1 w1 v w J |
 
 sketch _ DrGeoSketch new.
 r _ -1@1.
@@ -46,10 +46,17 @@ Y _ sketch intersectionOf: PY1 and: N.
 Y name:'Y'.
 RY _ sketch line:R to:Y.
 RY dotted.
+J _ sketch segment:R to:Y.
+J color:Color blue.
+J _ sketch segment:Y to:P.
+J color:Color blue.
+J _ sketch segment:R to:X.
+J color:Color blue.
+J _ sketch segment:X to:Q.
+J color:Color blue.
 Q1 _ sketch intersectionOf:RY and:G.
 Q1 hide.
 RQ1 _ sketch segment:R to:Q1.
-RQ1 hide.
 M1 _ sketch perpendicularBisector: RQ1.
 M1 hide.
 Z1 _ sketch intersectionOf:RX and:M1.
@@ -59,6 +66,11 @@ v _ sketch vector: R to: P.
 v hide.
 w1 hide.
 Z1 hide.
+J _ sketch segment:R to:Z1.
+J color:Color blue.
+J _ sketch segment:Q1 to:Z1.
+J color:Color blue.
+RQ1 color:Color blue.
 w _ sketch translate:w1 vector:v.
 w hide.
 PY _ sketch line:P to:Y.

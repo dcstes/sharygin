@@ -1,0 +1,39 @@
+
+<svg height="320.2417950435365" version="1.1" width="308.0" xmlns="http://www.w3.org/2000/svg">
+<path d=" M 152.0 153.12089752176826 L 158.0 159.12089752176826 M 152.0 159.12089752176826 L 158.0 153.12089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<path d=" M 173.0 132.12089752176826 L 179.0 138.12089752176826 M 173.0 138.12089752176826 L 179.0 132.12089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<path d=" M 219.0 89.12089752176826 L 225.0 95.12089752176826 M 219.0 95.12089752176826 L 225.0 89.12089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="229.0" y="108.12089752176826">R</text>
+<circle cx="155.0" cy="156.12089752176826" fill="none" r="92.655275079188" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 117.0 123.12089752176826 L 123.0 129.12089752176826 M 117.0 129.12089752176826 L 123.0 123.12089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="127.0" y="142.12089752176826">C1</text>
+<circle cx="176.0" cy="135.12089752176826" fill="none" r="56.718603649948925" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="88.80199861257296,320.2417950435365 140.26942995885562,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="126.49428944128556" y="64.04531877599146"/> 
+<text fill="#000000" font-size="11.2" x="136.49428944128556" y="83.04531877599146">A1</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="99.86816004581422" y="229.7190127922575"/> 
+<text fill="#000000" font-size="11.2" x="109.86816004581422" y="248.7190127922575">A2</text>
+<path d=" M 177.0 85.12089752176827 L 183.0 91.12089752176827 M 177.0 91.12089752176827 L 183.0 85.12089752176827" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<polyline fill="none" points="160.2450299981474,320.2417950435365 187.49965085291646,0" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="168.19027202993067" y="188.6352011700831"/> 
+<text fill="#000000" font-size="11.2" x="178.19027202993067" y="207.6352011700831">D1</text>
+<polyline fill="none" points="0,177.06581631647197 308.0,203.27858227391877" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="63.239767399040474" y="179.70324332915627"/> 
+<text fill="#000000" font-size="11.2" x="73.23976739904047" y="198.70324332915627">B1</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="234.99156317767478" y="194.3204174379762"/> 
+<text fill="#000000" font-size="11.2" x="244.99156317767478" y="213.3204174379762">B2</text>
+<polyline fill="none" points="271.6783510998855,320.2417950435365 21.454145228262878,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="166.16207170289675,0 0,303.81954889764734" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,259.6676263403322 308.0,178.98014277777614" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="103.57913148456245" y="105.94460952254866"/> 
+<text fill="#000000" font-size="11.2" x="113.57913148456245" y="124.94460952254866">K</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="183.2281701971978" y="207.88099510113972"/> 
+<text fill="#000000" font-size="11.2" x="193.2281701971978" y="226.88099510113972">L</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="25.185423656788387" y="249.28382469094652"/> 
+<text fill="#000000" font-size="11.2" x="35.18542365678839" y="268.2838246909465">P</text>
+<polyline fill="none" points="0,50.65537384951307 308.0,219.10377774643723" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="214.87767587167872,320.2417950435365 130.98318050278652,0" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="165.37789912800358" y="139.7429983937647"/> 
+<text fill="#000000" font-size="11.2" x="175.37789912800358" y="158.7429983937647">O</text>
+<circle cx="168.37789912800358" cy="142.7429983937647" fill="none" r="70.4373393346027" stroke="#0343DF" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,311.12089752176786 308.0,3.1208975217686024" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> </svg>

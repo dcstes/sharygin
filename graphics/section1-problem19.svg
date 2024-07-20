@@ -1,0 +1,52 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<path d=" M 218.0 204.62089752176826 L 224.0 210.62089752176826 M 218.0 210.62089752176826 L 224.0 204.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="228.0" y="223.62089752176826">O</text>
+<path d=" M 260.0 168.62089752176826 L 266.0 174.62089752176826 M 260.0 174.62089752176826 L 266.0 168.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="270.0" y="187.62089752176826">R</text>
+<circle cx="221.0" cy="207.62089752176826" fill="none" r="55.317266743757315" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 147.0 225.62089752176826 L 153.0 231.62089752176826 M 147.0 231.62089752176826 L 153.0 225.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="164.95437798156314" y="220.31044769623549"/> 
+<text fill="#000000" font-size="11.2" x="174.95437798156314" y="239.31044769623549">P</text>
+<path d=" M 178.0 138.62089752176826 L 184.0 144.62089752176826 M 178.0 144.62089752176826 L 184.0 138.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="189.3289657171173" y="157.3136909550118"/> 
+<text fill="#000000" font-size="11.2" x="199.3289657171173" y="176.3136909550118">Q</text>
+<path d=" M 247.0 276.62089752176826 L 253.0 282.62089752176826 M 247.0 282.62089752176826 L 253.0 276.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="238.66713067787668" y="255.9323943771862"/> 
+<text fill="#000000" font-size="11.2" x="248.66713067787668" y="274.9323943771862">S</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="152.8590375643589" y="179.41667771425932"/> 
+<text fill="#000000" font-size="11.2" x="162.8590375643589" y="198.41667771425932">A</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="229.46053842118604" y="132.99152567981864"/> 
+<text fill="#000000" font-size="11.2" x="239.46053842118604" y="151.99152567981864">B</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="310.15729701989835" y="227.13774404498304"/> 
+<text fill="#000000" font-size="11.2" x="320.15729701989835" y="246.13774404498304">C</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="182.2155997563669" y="278.66981655390543"/> 
+<text fill="#000000" font-size="11.2" x="192.2155997563669" y="297.66981655390543">D</text>
+<polyline fill="none" points="155.8590375643589,182.41667771425932 232.46053842118604,135.99152567981864" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="232.46053842118604,135.99152567981864 313.15729701989835,230.13774404498304" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="313.15729701989835,230.13774404498304 185.2155997563669,281.66981655390543" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="185.2155997563669,281.66981655390543 155.8590375643589,182.41667771425932" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="32.673811118553246" x="84.0" y="339.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="90.0" y="357.62089752176826">AB</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="32.887474882786336" x="152.0" y="339.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="158.0" y="357.62089752176826">BC</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="34.15472203616878" x="220.0" y="339.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="226.0" y="357.62089752176826">CD</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="33.94105827193573" x="288.0" y="339.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="294.0" y="357.62089752176826">DA</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="45.596784996651024" x="84.0" y="305.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="90.0" y="323.62089752176826">2.63</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="45.596784996651024" x="152.0" y="305.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="158.0" y="323.62089752176826">3.65</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="45.596784996651024" x="220.0" y="305.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="226.0" y="323.62089752176826">4.06</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="45.596784996651024" x="288.0" y="305.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="294.0" y="323.62089752176826">3.04</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="77.06430006697923" x="84.0" y="67.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="90.0" y="85.62089752176826">AB + CD</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="77.06430006697923" x="220.0" y="67.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="226.0" y="85.62089752176826">BC + DA</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316141" stroke="#FFFFFF" stroke-width="2" width="45.596784996651024" x="84.0" y="101.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="90.0" y="119.62089752176826">6.69</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316141" stroke="#FFFFFF" stroke-width="2" width="45.596784996651024" x="220.0" y="101.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="226.0" y="119.62089752176826">6.69</text></svg>

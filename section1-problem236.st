@@ -28,7 +28,7 @@ oldLine _ V at:n.
 D _ OrderedCollection new.
 1 to:n do: [ :i | D add:(sketch segment:(V at:i) to: (T at:i))].
 D do:[ :line | line hide].
-W _ OrderedCollection new.
+W _ Set new.
 1 to: n do: [ :i | i+2 to:n do: [ :j | (i = 1 and: j = n) ifFalse: [ W add:(sketch segment:(V at:i) to: (V at:j)) ]]].
 W do:[ :line | line dotted].
 AC _ W at:1.

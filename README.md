@@ -18,6 +18,7 @@ Section1 : 296 fundamental facts of plane geometry
 Section2 : 381 selected problems of plane geometry
 
    Problem 153 : Simson line  
+   Problem 154 : Angle between 2 Simson lines
    Problem 318 : auxiliary problem/result for Poncelet theorem
    Problem 320 : Morley theorem
 
